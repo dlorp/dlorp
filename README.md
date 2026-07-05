@@ -4,11 +4,9 @@
 
 ---
 
-> HDLS is a personal research collective studying local AI, mesh networking,
-> knowledge systems, and embedded firmware. From preserving the old web with
-> dr3dg3-n3t to building synapse-engine for viable small-language models in
-> the field — the goal is real research and real change. Everything runs on
-> hardware we own. No cloud dependencies, no API keys, no telemetry.
+> A signal chain research collective. We preserve vanishing knowledge with
+> dr3dg3-n3t, build local AI tools with synapse-engine and myc3lium, and keep
+> smaller models viable in the field. Everything runs on hardware we own.
 
 ---
 
