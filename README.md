@@ -23,10 +23,10 @@
         <img src="https://img.shields.io/badge/language-C%2B%2B-CC8800" alt="language" />
       </p>
       <p align="center">
-        LLM workshop: load, benchmark, finetune, and abliterate local models.
-        Modular prototype system where each stage of the model lifecycle is a
-        separate, swappable component. Built to make smaller models viable in
-        the field.
+        The full chain: HuggingFace models in, agentic training, local
+        deployment out. Load, benchmark, finetune, and abliterate smaller
+        models. Modular system where each stage of the model lifecycle is a
+        separate, swappable component. Built to run our own models.
       </p>
     </td>
     <td width="33%" valign="top">
@@ -68,9 +68,9 @@
 |---------|-------------|-------|--------|
 | [r3LAY](https://github.com/dlorp/r3LAY) | Local-first research terminal for hobbyists — maintenance logging, natural language input, RAG search across your docs | Python \| Shell | ![](https://img.shields.io/badge/active-ff9500) |
 | [phase-engine](https://github.com/dlorp/phase-engine) | Circadian awareness tool for Sensor Watch — four natural phases, intelligent feedback. Bangle.js 2 for testing, f91W custom firmware is the target | C \| C++ \| Python | ![](https://img.shields.io/badge/active-ff9500) |
-| [t3rra1n](https://github.com/dlorp/t3rra1n) | Terminal UI that doubles as an immersive ARG — field reports from a stranded HDLS researcher documenting alien landscapes | Python | ![](https://img.shields.io/badge/active-ff9500) |
+| [t3rra1n](https://github.com/dlorp/t3rra1n) | Procedural generation toolkit for terrain, noise fields, and signal-chain aesthetics | Python | ![](https://img.shields.io/badge/active-ff9500) |
 | [heedless.net](https://github.com/dlorp/heedless.net) | HDLS domain — public-facing site | HTML | ![](https://img.shields.io/badge/active-ff9500) |
-| [knowledge-vault](https://github.com/dlorp/knowledge-vault) | 3000+ entries across 62 domains — the collective memory | Markdown | ![](https://img.shields.io/badge/active-ff9500) |
+| [knowledge-vault](https://github.com/dlorp/knowledge-vault) | 3700+ entries across 69 domains — the collective memory | Markdown | ![](https://img.shields.io/badge/active-ff9500) |
 | [vault-crawler](https://github.com/dlorp/vault-crawler) | Automated source intake for the knowledge vault | Python | ![](https://img.shields.io/badge/active-ff9500) |
 
 ---
@@ -81,7 +81,7 @@
 preserve                 build                   research
    |                       |                       |
 dr3dg3-n3t            synapse-engine          small LLMs
-offline internet      model workshop          in the field
+offline internet      full model chain        in the field
    |                       |                       |
    +-----------+-----------+-----------+-----------+
                |
@@ -97,8 +97,8 @@ offline internet      model workshop          in the field
 <p>
   <img src="https://img.shields.io/badge/repos-18-ff9500" alt="repos" />
   <img src="https://img.shields.io/badge/languages-Python%20%7C%20C%2B%2B%20%7C%20C%20%7C%20JavaScript-CC8800" alt="languages" />
-  <img src="https://img.shields.io/badge/vault%20entries-3000%2B-7A5200" alt="vault entries" />
-  <img src="https://img.shields.io/badge/domains-62-7A5200" alt="domains" />
+  <img src="https://img.shields.io/badge/vault%20entries-3700%2B-7A5200" alt="vault entries" />
+  <img src="https://img.shields.io/badge/domains-69-7A5200" alt="domains" />
 </p>
 
 ---
