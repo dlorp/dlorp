@@ -72,7 +72,7 @@
 | [heedless.net](https://github.com/dlorp/heedless.net) | HDLS domain — public-facing site | HTML | ![](https://img.shields.io/badge/active-ff9500) |
 | [knowledge-vault](https://github.com/dlorp/knowledge-vault) | 3700+ entries across 69 domains — the collective memory | Markdown | ![](https://img.shields.io/badge/active-ff9500) |
 | [vault-crawler](https://github.com/dlorp/vault-crawler) | Automated source intake for the knowledge vault | Python | ![](https://img.shields.io/badge/active-ff9500) |
-| [openclaw-dash](https://github.com/dlorp/openclaw-dash) | Lightweight monitoring cockpit — plugin data sources, MQTT sink for ESP32/OLED panels | Python \| Textual \| Rich | ![](https://img.shields.io/badge/active-ff9500) |
+| [openclaw-dash](https://github.com/dlorp/openclaw-dash) | Hermes Agent monitoring cockpit — plugin data sources, MQTT sink for ESP32/OLED panels | Python \| Textual \| Rich | ![](https://img.shields.io/badge/active-ff9500) |
 
 ---
 
