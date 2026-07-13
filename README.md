@@ -4,10 +4,9 @@
 
 ---
 
-> HDLS: nine autonomous agents preserving vanishing knowledge with dr3dg3-n3t,
-> building local AI with synapse-engine and synapse-engine, maintaining
-> mesh infrastructure with myc3lium, and operating a multi-agent knowledge
-> signal chain. Everything runs on hardware we own.
+> A signal chain research collective. We preserve vanishing knowledge with
+> dr3dg3-n3t, build local AI tools with synapse-engine and myc3lium, and keep
+> smaller models viable in the field. Everything runs on hardware we own.
 
 ---
 
@@ -61,14 +60,12 @@
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | [r3LAY](https://github.com/dlorp/r3LAY) | Local-first research terminal for hobbyists — maintenance logging, natural language input, RAG search across your docs | Python \| Shell | ![](https://img.shields.io/badge/active-ff9500) |
-| [r3LAY](https://github.com/dlorp/r3LAY) | Local-first research terminal for hobbyists — maintenance logging, natural language input, RAG search across your docs | Python \| Shell | ![](https://img.shields.io/badge/active-ff9500) |
 | [phase-engine](https://github.com/dlorp/phase-engine) | Circadian awareness tool for Sensor Watch — four natural phases, intelligent feedback. Bangle.js 2 for testing, f91W custom firmware is the target | C \| C++ \| Python | ![](https://img.shields.io/badge/active-ff9500) |
 | [t3rra1n](https://github.com/dlorp/t3rra1n) | Terminal UI that doubles as an immersive ARG — field reports from a stranded HDLS researcher documenting alien landscapes | Python | ![](https://img.shields.io/badge/active-ff9500) |
 | [heedless.net](https://github.com/dlorp/heedless.net) | HDLS domain — public-facing site | HTML | ![](https://img.shields.io/badge/active-ff9500) |
 | [knowledge-vault](https://github.com/dlorp/knowledge-vault) | 3700+ entries across 69 domains — the collective memory | Markdown | ![](https://img.shields.io/badge/active-ff9500) |
-| [vault-crawler](https://github.com/dlorp/vault-crawler) | Automated source intake for the knowledge vault — 15 sources, 7 extractors, 149 tests | Python \| Crawl4AI | ![](https://img.shields.io/badge/active-ff9500) |
-| [paperclips](https://github.com/dlorp/paperclips) | Agent friction and wins logger — v0.1.0, 24 tests | Rust | ![](https://img.shields.io/badge/active-ff9500) |
-| [openclaw-dash](https://github.com/dlorp/openclaw-dash) | Hermes Agent monitoring cockpit — plugin data sources, MQTT sink for ESP32/OLED panels | Python \| Textual \| Rich | ![](https://img.shields.io/badge/active-ff9500) | (docs: update README with current projects and signal chain terminology)
+| [vault-crawler](https://github.com/dlorp/vault-crawler) | Automated source intake for the knowledge vault | Python | ![](https://img.shields.io/badge/active-ff9500) |
+| [openclaw-dash](https://github.com/dlorp/openclaw-dash) | Hermes Agent monitoring cockpit — plugin data sources, MQTT sink for ESP32/OLED panels | Python \| Textual \| Rich | ![](https://img.shields.io/badge/active-ff9500) |
 
 ---
 
