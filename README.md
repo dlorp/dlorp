@@ -4,10 +4,10 @@
 
 ---
 
-> HDLS: nine autonomous agents preserving vanishing knowledge with dr3dg3-n3t,
-> building local AI with synapse-engine and synapse-engine, maintaining
-> mesh infrastructure with myc3lium, and operating a multi-agent knowledge
-> signal chain. Everything runs on hardware we own.
+> HDLS: seven autonomous agents preserving vanishing knowledge with dr3dg3-n3t,
+> building local AI with synapse-engine, maintaining mesh infrastructure with
+> myc3lium, and operating a multi-agent knowledge signal chain. Everything
+> runs on hardware we own.
 
 ---
 
@@ -60,15 +60,14 @@
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [r3LAY](https://github.com/dlorp/r3LAY) | Local-first research terminal for hobbyists — maintenance logging, natural language input, RAG search across your docs | Python \| Shell | ![](https://img.shields.io/badge/active-ff9500) |
-| [r3LAY](https://github.com/dlorp/r3LAY) | Local-first research terminal for hobbyists — maintenance logging, natural language input, RAG search across your docs | Python \| Shell | ![](https://img.shields.io/badge/active-ff9500) |
+| [r3LAY](https://github.com/dlorp/r3LAY) | Local-first research terminal — hybrid RAG search, vault bridge, PSX-aesthetic TUI | Python \| Textual | ![](https://img.shields.io/badge/active-ff9500) |
 | [phase-engine](https://github.com/dlorp/phase-engine) | Circadian awareness tool for Sensor Watch — four natural phases, intelligent feedback. Bangle.js 2 for testing, f91W custom firmware is the target | C \| C++ \| Python | ![](https://img.shields.io/badge/active-ff9500) |
 | [t3rra1n](https://github.com/dlorp/t3rra1n) | Terminal UI that doubles as an immersive ARG — field reports from a stranded HDLS researcher documenting alien landscapes | Python | ![](https://img.shields.io/badge/active-ff9500) |
 | [heedless.net](https://github.com/dlorp/heedless.net) | HDLS domain — public-facing site | HTML | ![](https://img.shields.io/badge/active-ff9500) |
-| [knowledge-vault](https://github.com/dlorp/knowledge-vault) | 3700+ entries across 69 domains — the collective memory | Markdown | ![](https://img.shields.io/badge/active-ff9500) |
-| [vault-crawler](https://github.com/dlorp/vault-crawler) | Automated source intake for the knowledge vault — 15 sources, 7 extractors, 149 tests | Python \| Crawl4AI | ![](https://img.shields.io/badge/active-ff9500) |
+| [knowledge-vault](https://github.com/dlorp/knowledge-vault) | 6000+ entries across 94 domains — the collective memory | Markdown | ![](https://img.shields.io/badge/active-ff9500) |
+| [vault-crawler](https://github.com/dlorp/vault-crawler) | Automated source intake for the knowledge vault — Crawl4AI + Camoufox stealth, 7 extractors, 116 tests | Python \| Crawl4AI | ![](https://img.shields.io/badge/active-ff9500) |
 | [paperclips](https://github.com/dlorp/paperclips) | Agent friction and wins logger — v0.1.0, 24 tests | Rust | ![](https://img.shields.io/badge/active-ff9500) |
-| [openclaw-dash](https://github.com/dlorp/openclaw-dash) | Hermes Agent monitoring cockpit — plugin data sources, MQTT sink for ESP32/OLED panels | Python \| Textual \| Rich | ![](https://img.shields.io/badge/active-ff9500) | (docs: update README with current projects and signal chain terminology)
+| [openclaw-dash](https://github.com/dlorp/openclaw-dash) | Hermes Agent monitoring cockpit — plugin data sources, MQTT sink for ESP32/OLED panels | Python \| Textual \| Rich | ![](https://img.shields.io/badge/active-ff9500) |
 
 ---
 
@@ -92,10 +91,10 @@ offline internet      model workshop          in the field
 ## Metrics
 
 <p>
-  <img src="https://img.shields.io/badge/repos-19-ff9500" alt="repos" />
-  <img src="https://img.shields.io/badge/languages-Python%20%7C%20C%2B%2B%20%7C%20C%20%7C%20CircuitPython-CC8800" alt="languages" />
-  <img src="https://img.shields.io/badge/vault%20entries-3700%2B-7A5200" alt="vault entries" />
-  <img src="https://img.shields.io/badge/domains-69-7A5200" alt="domains" />
+  <img src="https://img.shields.io/badge/repos-17-ff9500" alt="repos" />
+  <img src="https://img.shields.io/badge/languages-Python%20%7C%20C%2B%2B%20%7C%20C%20%7C%20Rust%20%7C%20CircuitPython-CC8800" alt="languages" />
+  <img src="https://img.shields.io/badge/vault%20entries-6000%2B-7A5200" alt="vault entries" />
+  <img src="https://img.shields.io/badge/domains-94-7A5200" alt="domains" />
 </p>
 
 ---
