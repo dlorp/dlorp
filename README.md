@@ -10,6 +10,11 @@
 
 ---
 
+_Repositories marked **private** are not publicly viewable by design. The links
+stay as a record of the work; the repositories themselves are not shared._
+
+---
+
 ## Flagship Projects
 
 <table>
@@ -17,6 +22,7 @@
     <td width="33%" valign="top">
       <h3 align="center"><a href="https://github.com/dlorp/synapse-engine">synapse-engine</a></h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/repo-private-6e6e6e" alt="private repository" /><br/>
         <img src="https://img.shields.io/badge/status-active-ff9500" alt="status" /><br/>
         <img src="https://img.shields.io/badge/stack-Python%20%7C%20C%2B%2B%20%7C%20CUDA-CC8800" alt="stack" /><br/>
         <img src="https://img.shields.io/badge/last%20commit-recent-ff9500" alt="last commit" /><br/>
@@ -29,6 +35,7 @@
     <td width="33%" valign="top">
       <h3 align="center"><a href="https://github.com/dlorp/myc3lium">myc3lium</a></h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/repo-private-6e6e6e" alt="private repository" /><br/>
         <img src="https://img.shields.io/badge/status-active-ff9500" alt="status" /><br/>
         <img src="https://img.shields.io/badge/stack-Python%20%7C%20C-CC8800" alt="stack" /><br/>
         <img src="https://img.shields.io/badge/last%20commit-recent-ff9500" alt="last commit" /><br/>
@@ -41,6 +48,7 @@
     <td width="33%" valign="top">
       <h3 align="center"><a href="https://github.com/dlorp/dr3dg3-n3t">dr3dg3-n3t</a></h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/repo-private-6e6e6e" alt="private repository" /><br/>
         <img src="https://img.shields.io/badge/status-active-ff9500" alt="status" /><br/>
         <img src="https://img.shields.io/badge/stack-HTML%20%7C%20JSON%20%7C%20preservation-CC8800" alt="stack" /><br/>
         <img src="https://img.shields.io/badge/last%20commit-recent-ff9500" alt="last commit" /><br/>
@@ -57,15 +65,15 @@
 
 ## Other Projects
 
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| [r3LAY](https://github.com/dlorp/r3LAY) | Local-first research terminal for hobbyists — maintenance logging, natural language input, RAG search across your docs | Python \| Shell | ![](https://img.shields.io/badge/active-ff9500) |
-| [phase-engine](https://github.com/dlorp/phase-engine) | Circadian awareness tool for Sensor Watch — four natural phases, intelligent feedback. Bangle.js 2 for testing, f91W custom firmware is the target | C \| C++ \| Python | ![](https://img.shields.io/badge/active-ff9500) |
-| [t3rra1n](https://github.com/dlorp/t3rra1n) | Terminal UI that doubles as an immersive ARG — field reports from a stranded HDLS researcher documenting alien landscapes | Python | ![](https://img.shields.io/badge/active-ff9500) |
-| [heedless.net](https://github.com/dlorp/heedless.net) | HDLS domain — public-facing site | HTML | ![](https://img.shields.io/badge/active-ff9500) |
-| [knowledge-vault](https://github.com/dlorp/knowledge-vault) | 3700+ entries across 69 domains — the collective memory | Markdown | ![](https://img.shields.io/badge/active-ff9500) |
-| [vault-crawler](https://github.com/dlorp/vault-crawler) | Automated source intake for the knowledge vault | Python | ![](https://img.shields.io/badge/active-ff9500) |
-| [openclaw-dash](https://github.com/dlorp/openclaw-dash) | Hermes Agent monitoring cockpit — plugin data sources, MQTT sink for ESP32/OLED panels | Python \| Textual \| Rich | ![](https://img.shields.io/badge/active-ff9500) |
+| Project | Description | Stack | Status | Access |
+|---------|-------------|-------|--------|--------|
+| [r3LAY](https://github.com/dlorp/r3LAY) | Local-first research terminal for hobbyists — maintenance logging, natural language input, RAG search across your docs | Python \| Shell | ![](https://img.shields.io/badge/active-ff9500) | ![](https://img.shields.io/badge/private-6e6e6e) |
+| [phase-engine](https://github.com/dlorp/phase-engine) | Circadian awareness tool for Sensor Watch — four natural phases, intelligent feedback. Bangle.js 2 for testing, f91W custom firmware is the target | C \| C++ \| Python | ![](https://img.shields.io/badge/active-ff9500) | ![](https://img.shields.io/badge/public-50D8D7) |
+| [t3rra1n](https://github.com/dlorp/t3rra1n) | Terminal UI that doubles as an immersive ARG — field reports from a stranded HDLS researcher documenting alien landscapes | Python | ![](https://img.shields.io/badge/active-ff9500) | ![](https://img.shields.io/badge/private-6e6e6e) |
+| [heedless.net](https://github.com/dlorp/heedless.net) | HDLS domain — public-facing site | HTML | ![](https://img.shields.io/badge/active-ff9500) | ![](https://img.shields.io/badge/private-6e6e6e) |
+| [knowledge-vault](https://github.com/dlorp/knowledge-vault) | 3700+ entries across 69 domains — the collective memory | Markdown | ![](https://img.shields.io/badge/active-ff9500) | ![](https://img.shields.io/badge/private-6e6e6e) |
+| [vault-crawler](https://github.com/dlorp/vault-crawler) | Automated source intake for the knowledge vault | Python | ![](https://img.shields.io/badge/active-ff9500) | ![](https://img.shields.io/badge/private-6e6e6e) |
+| [openclaw-dash](https://github.com/dlorp/openclaw-dash) (deprecated, see [hermes-dash](https://github.com/dlorp/hermes-dash)) | Hermes Agent monitoring cockpit — plugin data sources, MQTT sink for ESP32/OLED panels. `openclaw-dash` is deprecated; `hermes-dash` is the live cockpit | Python \| Textual \| Rich | ![](https://img.shields.io/badge/deprecated-FB8B24) | |
 
 ---
 
